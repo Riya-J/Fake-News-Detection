@@ -1,4 +1,4 @@
-# Fake-News-Detection
+# Fake News Detection using Mchine Learning
 This project aims at classifying news as real or fake. It was implemented using the following steps:
 1. Assigning labels to the data
 2. Data Visualization
